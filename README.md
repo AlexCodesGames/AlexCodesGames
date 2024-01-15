@@ -22,7 +22,7 @@ I enjoy talking about a variety of things and I'm open to discussing collab oppe
 - Morals and ethics in the gaming space (can we create games that generate a profit without using hype-lies and brain-hacks?) 
 
 ## 📫 Where To Stalk Me
-- [Twitter (X)]([Your LinkedIn Profile](https://twitter.com/AlexCodesGames)
+- [Twitter (X)](Your LinkedIn Profile](https://twitter.com/AlexCodesGames)
 
 ## ⚡ Fun fact
 - I'm a puzzle enthusiast and love tackling complex problems, both in games and in coding (I'm literally addicted to coding and over-work myself all the time x_x)!
