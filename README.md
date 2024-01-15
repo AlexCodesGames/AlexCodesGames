@@ -26,13 +26,3 @@ I enjoy talking about a variety of things and I'm open to discussing collab oppe
 
 ## ⚡ Fun fact
 - I'm a puzzle enthusiast and love tackling complex problems, both in games and in coding (I'm literally addicted to coding and over-work myself all the time x_x)!
-
-<!-- Dynamic Section (Optional) -->
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-
-<!-- Contribution Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[YourUsername]&theme=xcode)
-
-<!-- Footer -->
-_Let's create something amazing together!_
